@@ -6,4 +6,4 @@
 3. Menerima Input User
 ![image](https://github.com/IsmedQalyubi/1.Python-1/blob/main/input%20user.PNG) 
 4. Type Conversion
-![image](
+![image](https://github.com/IsmedQalyubi/1.Python-1/blob/main/type%20conversion.PNG) 
